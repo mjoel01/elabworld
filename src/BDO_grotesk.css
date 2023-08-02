@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "bdo_groteskblack";
+  src: url("./assets/fonts/BDOGrotesk-Black.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bdo_groteskbold";
+  src: url("./assets/fonts/BDOGrotesk-Bold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bdo_groteskdemibold";
+  src: url("./assets/fonts/BDOGrotesk-DemiBold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bdo_groteskextrabold";
+  src: url("./assets/fonts/BDOGrotesk-ExtraBold.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bdo_grotesklight";
+  src: url("./assets/fonts/BDOGrotesk-Light.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bdo_groteskmedium";
+  src: url("./assets/fonts/BDOGrotesk-Medium.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "bdo_groteskregular";
+  src: url("./assets/fonts/BDOGrotesk-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
