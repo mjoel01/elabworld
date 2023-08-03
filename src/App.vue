@@ -75,24 +75,6 @@ export default {
       <p>2023</p>
     </footer>
   </section>
-  <section class="challanges">
-    <div class="challange-wrapper">
-      <h1>challenge one recap</h1>
-      <div class="challange-video-wrapper">
-        <video
-          src="./assets/imgs/WhatsApp Video 2023-07-31 at 10.09.49 AM.mp4"
-          controls
-        ></video>
-      </div>
-    </div>
-    <div class="challange-wrapper">
-      <h1>challenge two recap</h1>
-      <video
-        controls
-        src="./assets/imgs/WhatsApp Video 2023-07-31 at 10.09.50 AM.mp4"
-      ></video>
-    </div>
-  </section>
 </template>
 
 <style lang="scss" scoped>
